@@ -12,7 +12,7 @@
 #
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
-FROM nginx:latest
+FROM nginx:1.21
 
 LABEL maintainer="Jones MAGLOIRE @Joxit"
 
